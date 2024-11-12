@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deprecapp/static/css/main.70aa2301.css",
+    "main.js": "/deprecapp/static/js/main.ce6612da.js",
+    "static/js/453.595e59a4.chunk.js": "/deprecapp/static/js/453.595e59a4.chunk.js",
+    "index.html": "/deprecapp/index.html",
+    "main.70aa2301.css.map": "/deprecapp/static/css/main.70aa2301.css.map",
+    "main.ce6612da.js.map": "/deprecapp/static/js/main.ce6612da.js.map",
+    "453.595e59a4.chunk.js.map": "/deprecapp/static/js/453.595e59a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70aa2301.css",
+    "static/js/main.ce6612da.js"
+  ]
+}
